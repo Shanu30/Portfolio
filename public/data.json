@@ -1,0 +1,117 @@
+{
+  "name": "Kumar Shanu",
+  "image": "/me.jpg",
+  "profession": "FullStack web developer",
+  "intro": "Focused on creating amazing UIs and solving problems to build something cool and useful for the world.",
+  "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I am learning coding for over a year and enjoying every part of my journey.",
+  "skills": [
+    {
+      "src": "/logos/html5-2.svg",
+      "name": "html",
+      "link": "https://www.w3.org/html/"
+    },
+    
+    {
+      "src": "/logos/css-3.svg",
+      "name": "css",
+      "link": "https://www.w3schools.com/css/"
+    },
+    {
+      "src": "/logos/bootstrap-5-1.svg",
+      "name": "bootstrap",
+      "link": "https://getbootstrap.com"
+    },
+    {
+      "src": "/logos/logo-javascript.svg",
+      "name": "React",
+      "link": "https://www.javascript.com/"
+    },
+    {
+      "src": "/logos/react.svg",
+      "name": "React",
+      "link": "https://reactjs.org/"
+    },
+    {
+      "src": "/logos/redux.svg",
+      "name": "redux",
+      "link": "https://redux.js.org/"
+    },
+    {
+      "src": "/logos/nodejs-icon.svg",
+      "name": "node",
+      "link": "https://nodejs.org/"
+    },
+    {
+      "src": "/logos/material-ui-1.svg",
+      "name": "mui",
+      "link": "https://mui.com/"
+    },
+    {
+      "src": "/logos/github.svg",
+      "name": "GitHub",
+      "link": "https://github.com/"
+    },
+    
+    {
+      "src": "/logos/postman.svg",
+      "name": "Tailwind",
+      "link": "https://postman.com/"
+    }
+    
+    
+  ],
+  "projects": [
+    {
+      "name": "Zostel",
+      "image": "/projects/zostel.png",
+      "about": "Zostel is one of the largest and oldest networks of hostels and homes in India.",
+      "tech": ["ReactJS", "Bootstrap", "Module CSS", "JavaScript"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/Project_ZOSTEL",
+        "Live": "/"
+      }
+    },
+    {
+      "name": "Martine.io",
+      "image": "/projects/martine.png",
+      "about": "Martine is a travel purpose website which can be used for booking hotels and events.",
+      "tech": ["HTML", "ES6", "CSS"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/Martine-clone",
+        "Live": "/"
+      }
+    },
+    {
+      "name": "Greenhouse.io",
+      "image": "/projects/greenhouse.png",
+      "about": "Greenhouse.io is an Aplicant tracking system & recruiting sofware.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/greenhouse-clone/tree/main",
+        "Live": "/"
+      }
+    }
+  ],
+   "links": [
+    {
+      "name": "GitHub",
+      "icon": "github.svg",
+      "link": "https://github.com/Shanu30"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg",
+      "link": "https://www.instagram.com/madein_up65/"
+    },
+    {
+      "name": "Mail me",
+      "icon": "mail.svg",
+      "link": "mailto:ksechenari@gmail.com"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/kumar-shanu-a73636140/"
+    }
+  ]
+}
