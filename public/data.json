@@ -68,7 +68,7 @@
       "tech": ["ReactJS", "Bootstrap", "Module CSS", "JavaScript"],
       "links": {
         "GitHub": "https://github.com/Shanu30/Project_ZOSTEL",
-        "Live": "/"
+        "Live": "https://zostel-clone.netlify.app"
       }
     },
     {
@@ -78,7 +78,7 @@
       "tech": ["HTML", "ES6", "CSS"],
       "links": {
         "GitHub": "https://github.com/Shanu30/Martine-clone",
-        "Live": "/"
+        "Live": "http://project-1-martine.vercel.app/"
       }
     },
     {
