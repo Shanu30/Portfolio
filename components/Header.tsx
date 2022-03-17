@@ -50,7 +50,7 @@ const Header = () => {
       href: "about",
     },
     {
-      name: "Work",
+      name: "Projects",
       href: "work",
     },
     {
