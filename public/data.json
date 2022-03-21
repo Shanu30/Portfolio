@@ -62,6 +62,16 @@
   ],
   "projects": [
     {
+      "name": "Google Stopwatch and Timer",
+      "image": "/projects/Stopwatch.png",
+      "about": "It is a stopwatch and timer app by using Hooks",
+      "tech": ["ReactJS, NodeJS, HTML, CSS, Javasctipt"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/stopwatch-timer",
+        "Live": "https://google-timer-stopwatch.herokuapp.com/"
+      }
+    },
+    {
       "name": "Zostel",
       "image": "/projects/zostel.png",
       "about": "Zostel is one of the largest and oldest networks of hostels and homes in India.",
@@ -79,16 +89,6 @@
       "links": {
         "GitHub": "https://github.com/Shanu30/Martine-clone",
         "Live": "http://project-1-martine.vercel.app/"
-      }
-    },
-    {
-      "name": "Greenhouse.io",
-      "image": "/projects/greenhouse.png",
-      "about": "Greenhouse.io is an Aplicant tracking system & recruiting sofware.",
-      "tech": ["HTML", "CSS", "JavaScript"],
-      "links": {
-        "GitHub": "https://github.com/Shanu30/greenhouse-clone/tree/main",
-        "Live": "/"
       }
     }
   ],
