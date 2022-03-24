@@ -83,7 +83,7 @@
     },
     {
       "name": "Martine.io",
-      "image": "/projects/greenhouse.png",
+      "image": "/projects/martine.png",
       "about": "Martine is a travel purpose website which can be used for booking hotels and events.",
       "tech": ["HTML", "ES6", "CSS"],
       "links": {
@@ -93,7 +93,7 @@
     },
     {
       "name": "Greenhouse-clone",
-      "image": "/projects/martine.png",
+      "image": "/projects/greenhouse.png",
       "about": "This project is a clone of a Job searching Website, The project was built in Construct-Week of Unit-2 at Masai School by a team of 3 persons and executed in 6 days. It is a static website.",
       "tech": ["HTML", "JavaScript", "CSS"],
       "links": {
