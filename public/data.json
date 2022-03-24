@@ -62,16 +62,6 @@
   ],
   "projects": [
     {
-      "name": "Google Stopwatch and Timer",
-      "image": "/projects/Stopwatch.png",
-      "about": "It is a stopwatch and timer app by using Hooks",
-      "tech": ["ReactJS, NodeJS, HTML, CSS, Javasctipt"],
-      "links": {
-        "GitHub": "https://github.com/Shanu30/stopwatch-timer",
-        "Live": "https://google-timer-stopwatch.herokuapp.com/"
-      }
-    },
-    {
       "name": "Zostel",
       "image": "/projects/zostel.png",
       "about": "Zostel is one of the largest and oldest networks of hostels and homes in India.",
@@ -82,13 +72,33 @@
       }
     },
     {
+      "name": "Google Stopwatch and Timer",
+      "image": "/projects/Stopwatch.png",
+      "about": "It is a stopwatch and timer app by using Hooks",
+      "tech": ["ReactJS, NodeJS, HTML, CSS, Javasctipt"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/stopwatch-timer",
+        "Live": "https://google-timer-stopwatch.herokuapp.com/"
+      }
+    },
+    {
       "name": "Martine.io",
-      "image": "/projects/martine.png",
+      "image": "/projects/greenhouse.png",
       "about": "Martine is a travel purpose website which can be used for booking hotels and events.",
       "tech": ["HTML", "ES6", "CSS"],
       "links": {
         "GitHub": "https://github.com/Shanu30/Martine-clone",
         "Live": "http://project-1-martine.vercel.app/"
+      }
+    },
+    {
+      "name": "Greenhouse-clone",
+      "image": "/projects/martine.png",
+      "about": "This project is a clone of a Job searching Website, The project was built in Construct-Week of Unit-2 at Masai School by a team of 3 persons and executed in 6 days. It is a static website.",
+      "tech": ["HTML", "JavaScript", "CSS"],
+      "links": {
+        "GitHub": "https://github.com/Shanu30/greenhouse-clone",
+        "Live": "https://greenhouse-clone.netlify.app//"
       }
     }
   ],
