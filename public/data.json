@@ -62,6 +62,16 @@
   ],
   "projects": [
     {
+      "name": "Urban-Ladder Clone",
+      "image": "/projects/Urban.jpeg",
+      "about": "This project is the clone of Urban Ladder(Online furniture shop). The project was built by a team of 4 persons and executed in 5 days.Key features of the project are Signup/Login with email and google, Checkout process including Add to cart, Shipping address form and Payment details.",
+      "tech": ["React, Redux, Context-API, Express, MongoDB, Material UI, Ant Design, Module-CSS"],
+      "links": {
+        "GitHub": "https://github.com/rajachoudhary/Urban-Ladder-clone",
+        "Live": "https://urban-ladder-clone.vercel.app/"
+      }
+    },
+    {
       "name": "Zostel",
       "image": "/projects/zostel.png",
       "about": "Zostel is one of the largest and oldest networks of hostels and homes in India.",
@@ -71,16 +81,7 @@
         "Live": "https://zostel-clone.netlify.app"
       }
     },
-    {
-      "name": "Google Stopwatch and Timer",
-      "image": "/projects/Stopwatch.png",
-      "about": "It is a stopwatch and timer app by using Hooks",
-      "tech": ["ReactJS, NodeJS, HTML, CSS, Javasctipt"],
-      "links": {
-        "GitHub": "https://github.com/Shanu30/stopwatch-timer",
-        "Live": "https://google-timer-stopwatch.herokuapp.com/"
-      }
-    },
+    
     {
       "name": "Martine.io",
       "image": "/projects/martine.png",
